@@ -1,4 +1,4 @@
-Compiled binaries of cp and mv with progress patch for convinience.
+Compiled binaries of cp and mv with progress patch for convenience.
 
 Source :
 https://github.com/jarun/advcpmv
